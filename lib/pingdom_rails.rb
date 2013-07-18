@@ -1,5 +1,7 @@
 require "pingdom_rails/version"
 
 module PingdomRails
-  # Your code goes here...
+  def self.pp
+    return "Hello World!"
+  end
 end
