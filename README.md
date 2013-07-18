@@ -1,6 +1,6 @@
 # Pingdom::Rails
 
-TODO: Write a gem description
+Ruby interface to the Pingdom API.
 
 ## Installation
 
@@ -10,7 +10,7 @@ Add this line to your application's Gemfile:
 
 And then execute:
 
-    $ bundle
+    $ bundle install
 
 Or install it yourself as:
 
